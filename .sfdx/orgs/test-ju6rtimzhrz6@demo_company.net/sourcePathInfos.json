@@ -1,0 +1,227 @@
+[
+    [
+        "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app",
+        {
+            "sourcePath": "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1514111538470,
+            "changeTime": 1514111538470,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main",
+        {
+            "sourcePath": "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1514111538471,
+            "changeTime": 1514111538471,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default",
+        {
+            "sourcePath": "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1514111538484,
+            "changeTime": 1514111538484,
+            "contentHash": "2e4f06382de3199e66dcf8eb4313e5b4f12f80e3",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1514111538479,
+            "changeTime": 1514111538479,
+            "contentHash": "e3687f65b0885128a02e534ece5e0cf3ce9f38c0",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\layouts\\Account-Account %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 10028,
+            "modifiedTime": 1514111538473,
+            "changeTime": 1514111538473,
+            "contentHash": "fe7a003e275cd130f32a81943f608da5f7c103e1",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\layouts\\Account-Account %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9978,
+            "modifiedTime": 1514111538475,
+            "changeTime": 1514111538475,
+            "contentHash": "7a78c4b0703f9e33189120f1709441b21e596c71",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\layouts\\Account-Account %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 10028,
+            "modifiedTime": 1514111538478,
+            "changeTime": 1514111538478,
+            "contentHash": "723713bbf49bb6dfcafb91dde9cc6a581082c2a3",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\layouts\\Account-Account Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 9978,
+            "modifiedTime": 1514111538480,
+            "changeTime": 1514111538480,
+            "contentHash": "647b858d9932d9628cc359b9cb9d82e0c76b80bd",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1514111538481,
+            "changeTime": 1514111538481,
+            "contentHash": "85dfa32c97d8618d1bea083609e2c8a29845abe5",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\objects\\Account",
+        {
+            "sourcePath": "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\objects\\Account",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1514111538481,
+            "changeTime": 1514111538481,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\objects\\Account\\fields",
+        {
+            "sourcePath": "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\objects\\Account\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1514111538483,
+            "changeTime": 1514111538483,
+            "contentHash": "64560c84ade9015d36bd21e8436a4d2662babedc",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\objects\\Account\\fields\\Location__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 414,
+            "modifiedTime": 1514111538484,
+            "changeTime": 1514111538484,
+            "contentHash": "d8e42de94ab4f0200875bcbe82c14fa35f027b00",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\permissionsets",
+        {
+            "sourcePath": "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\permissionsets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1514111538486,
+            "changeTime": 1514111538486,
+            "contentHash": "3997b26d8a7f6692d5d741c4ac6d7985687d23ba",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+        {
+            "sourcePath": "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\permissionsets\\Geolocation.permissionset-meta.xml",
+            "isDirectory": false,
+            "size": 376,
+            "modifiedTime": 1514111538487,
+            "changeTime": 1514111538487,
+            "contentHash": "3da1fd99eeb4770128fefbd9463a3d6fa7647f19",
+            "isMetadataFile": true,
+            "state": "n",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce",
+        {
+            "sourcePath": "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1514111903482,
+            "changeTime": 1514111903482,
+            "contentHash": "c248c0fcf4242beea127470c300f425a242a92af",
+            "isMetadataFile": false,
+            "state": "n",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
