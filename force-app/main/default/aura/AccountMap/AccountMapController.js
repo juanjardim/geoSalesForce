@@ -6,5 +6,15 @@
                 attribution: 'Tiles © Esri'
             }).addTo(map);
         component.set("v.map", map);
+    },
+
+    accountLoaded: function (cmp, event, helper) {
+        var map = cmp.get("v.map");
+        var accounts = event.getParam('accounts');
+        for (var i = 0; i < accounts.length; i++) {
+            var account = accounts[i];
+            var latLng = [account.Location__Latitude__s, account.Location__Longitude__s];
+            L.marker(latlng, { account: account }).addTo(map);
+        }
     }
 })
