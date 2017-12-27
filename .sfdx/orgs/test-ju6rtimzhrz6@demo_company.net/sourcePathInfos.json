@@ -32,16 +32,15 @@
     [
         "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1514111538484,
-            "changeTime": 1514111538484,
-            "contentHash": "2e4f06382de3199e66dcf8eb4313e5b4f12f80e3",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 0,
+            "modifiedTime": 1514370263690,
+            "changeTime": 1514370263690,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "21561c98dfd0fecdde9706dde46e536247b50732"
         }
     ],
     [
@@ -212,55 +211,197 @@
     [
         "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce",
         {
+            "state": "u",
             "sourcePath": "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1514111903482,
-            "changeTime": 1514111903482,
-            "contentHash": "c248c0fcf4242beea127470c300f425a242a92af",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 0,
+            "modifiedTime": 1514112677361,
+            "changeTime": 1514112677361,
             "isWorkspace": true,
-            "isArtifactRoot": false
+            "contentHash": "9ac00caf0d373ab51fe4bcab768d93100c92454f"
         }
     ],
     [
         "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\classes",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\classes",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1514369664591,
             "changeTime": 1514369664591,
-            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42"
+            "contentHash": "c1cd31a661b28d7140627a94a16c864875d58a42",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\classes\\AccountController.cls",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\classes\\AccountController.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 360,
             "modifiedTime": 1514369817158,
             "changeTime": 1514369817158,
-            "contentHash": "d5e9746f57a32a934040de4e8dcbdd16f081496a"
+            "contentHash": "d5e9746f57a32a934040de4e8dcbdd16f081496a",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\classes\\AccountController.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 195,
             "modifiedTime": 1514369664607,
             "changeTime": 1514369664607,
-            "contentHash": "cc0a2dcbacbf3621f3b3ac19658879090926c15f"
+            "contentHash": "cc0a2dcbacbf3621f3b3ac19658879090926c15f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1514370264027,
+            "changeTime": 1514370264027,
+            "contentHash": "4c01eade869b72bbd66cfccee570a524d94497f7"
+        }
+    ],
+    [
+        "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\aura\\AccountLocator",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\aura\\AccountLocator",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1514370264091,
+            "changeTime": 1514370264091,
+            "contentHash": "bd7161f8b78fb71785cf2b56d7038280fc9b4ca5"
+        }
+    ],
+    [
+        "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1514370264089,
+            "changeTime": 1514370264089,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e"
+        }
+    ],
+    [
+        "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 169,
+            "modifiedTime": 1514370633221,
+            "changeTime": 1514370633221,
+            "contentHash": "6c12bc2162471a5e734921e6fc4b05f061ed190e"
+        }
+    ],
+    [
+        "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 246,
+            "modifiedTime": 1514370264049,
+            "changeTime": 1514370264049,
+            "contentHash": "652875ccc6ba6e08028b1aa51773d72e376e436f"
+        }
+    ],
+    [
+        "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 122,
+            "modifiedTime": 1514371026122,
+            "changeTime": 1514371026122,
+            "contentHash": "fe78f7deeeda1956f0cebec173e740d7509d51ad"
+        }
+    ],
+    [
+        "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1514370264095,
+            "changeTime": 1514370264095,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec"
+        }
+    ],
+    [
+        "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocator.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1514370264082,
+            "changeTime": 1514370264082,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4"
+        }
+    ],
+    [
+        "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1514370264056,
+            "changeTime": 1514370264056,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf"
+        }
+    ],
+    [
+        "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1514370264063,
+            "changeTime": 1514370264063,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b"
+        }
+    ],
+    [
+        "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "C:\\Users\\juanj\\Desktop\\salesforce_projects\\geoSalesForce\\force-app\\main\\default\\aura\\AccountLocator\\AccountLocatorRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1514370264076,
+            "changeTime": 1514370264076,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b"
         }
     ]
 ]
